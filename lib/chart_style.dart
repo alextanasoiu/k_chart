@@ -74,7 +74,7 @@ class ChartStyle {
   static const double pointWidth = 11.0;
 
   //蜡烛宽度
-  static const double candleWidth = 6.0;
+  static const double candleWidth = 4.0;
 
   //蜡烛中间线的宽度
   static const double candleLineWidth = 0.6;

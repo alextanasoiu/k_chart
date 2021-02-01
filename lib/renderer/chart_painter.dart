@@ -14,7 +14,7 @@ import 'main_renderer.dart';
 import 'secondary_renderer.dart';
 import 'vol_renderer.dart';
 
-const _sideBadgePaddingY = 1.5;
+const _sideBadgePaddingY = 3.5;
 
 class ChartPainter extends BaseChartPainter {
   //

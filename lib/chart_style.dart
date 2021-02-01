@@ -71,7 +71,7 @@ class ChartStyle {
   ChartStyle._();
 
   //点与点的距离
-  static const double pointWidth = 12.0;
+  static const double pointWidth = 11.0;
 
   //蜡烛宽度
   static const double candleWidth = 6.0;
